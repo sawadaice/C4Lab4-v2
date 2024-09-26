@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "C4Lab4-main.sln"
+    "dotnet.defaultSolution": "C4Lab4.sln"
 }
